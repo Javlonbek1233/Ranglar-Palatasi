@@ -1,0 +1,6 @@
+{
+  "name": "Rang Palitrasi Generator",
+  "description": "Ranglar palitrasi va gradientlar yarating, formatlarini (HEX, RGB, HSL) nusxalang hamda sevimli ranglaringizni saqlang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
